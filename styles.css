@@ -75,10 +75,10 @@
   background:#333;
   color:#fff;
   font-size: 11px;
-  background: url("../media/img/fonditoFooter.png") no-repeat center top, -webkit-linear-gradient(top, #474A50, #0F161A) repeat-x 0 0;
-  background: url("../media/img/fonditoFooter.png") no-repeat center top, -moz-linear-gradient(top, #474A50, #0F161A) repeat-x 0 0;
-  background: url("../media/img/fonditoFooter.png") no-repeat center top, -o-linear-gradient(top, #474A50, #0F161A) repeat-x 0 0;
-  background-image: url("../media/img/fonditoFooter.png"),-ms-linear-gradient(rgb(71, 74, 80), rgb(15, 22, 26));
+  background: url("media/img/fonditoFooter.png") no-repeat center top, -webkit-linear-gradient(top, #474A50, #0F161A) repeat-x 0 0;
+  background: url("media/img/fonditoFooter.png") no-repeat center top, -moz-linear-gradient(top, #474A50, #0F161A) repeat-x 0 0;
+  background: url("media/img/fonditoFooter.png") no-repeat center top, -o-linear-gradient(top, #474A50, #0F161A) repeat-x 0 0;
+  background-image: url("media/img/fonditoFooter.png"),-ms-linear-gradient(rgb(71, 74, 80), rgb(15, 22, 26));
   background-repeat: no-repeat,repeat-x;
   background-position-x:center,0px;
   background-position-y:top,0px;
